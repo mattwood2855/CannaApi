@@ -1,6 +1,6 @@
 {
   "name": "CannaApi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "WebAPI for reading sensors on a BeagleBone Black (Rev C)",
   "main": "index.js",
   "directories": {
